@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @ecolon727
-- 👀 I’m interested in software development and AI.
-- 🌱 I’m currently learning Java basics.
-- 💞️ I’m looking to collaborate on beginner Java, C, Python projects.
-- 📫 How to reach me: ecolon714@gmail.com
-- 😄 Pronouns: He /Him
-- ⚡ Fun fact: I love almost anything from 2000's - 2010's era.
+Name: Emmanuel Colon
+Valencia College Course: Software Development I - CEN-3024C 
+CRN: 26663
 
-<!---
-ecolon727/ecolon727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Project:
+LineServer.java 
+- establishes a server connection to the localhost (your PC) and reads a txt.file of your choice.
+- reads then returns those lines with methods.
+
+LineClient.java 
+- client that connects to and requests the server to output the line string that the user has inputted.
+
+Instructions:
+- run LineServer.java first to establish the server connection.
+- run LineClient.java, it will request the user to request a line's string (Enter a line number).
+- LineServer.java will display the string at the specified line in its console window.
+
+
+Programming Concepts:
+- Lists, ServerSockets, Buffered Readers, Input and Output streams
+- Try/Catch, StringBuilder, File
