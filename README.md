@@ -18,4 +18,4 @@ Instructions:
 
 Programming Concepts:
 - Lists, ServerSockets, Buffered Readers, Input and Output streams
-- Try/Catch, StringBuilder, File
+- Try/Catch, StringBuilder, File, Methods, Scanners
