@@ -6,6 +6,7 @@ Project:
 LineServer.java 
 - establishes a server connection to the localhost (your PC) and reads a txt.file of your choice.
 - reads then returns those lines with methods.
+- (it reads a hamlet.txt file but feel free to change to your own txt.file)
 
 LineClient.java 
 - client that connects to and requests the server to output the line string that the user has inputted.
